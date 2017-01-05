@@ -1,0 +1,25 @@
+Name:
+Task partial assignment error
+
+forced partial assignment:
+(1,C)
+(2,C)
+
+forbidden machine:
+(2,D)
+
+too-near tasks
+(C,D)
+
+machine penalties:
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+
+too-near penalities
+(E,F,30)
