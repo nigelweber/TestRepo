@@ -1,0 +1,28 @@
+Name:
+Normal
+
+forced partial assignment:
+
+forbidden machine:
+(1,c)
+(2,d)
+
+too-near tasks:
+(c,d)
+
+machine penalties:
+1 1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+1 1 1 1 1 1 1 1
+
+too-near penalities
+(e,f,30)
+(g,a,45)
+
+
+
