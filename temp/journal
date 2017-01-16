@@ -1,0 +1,11 @@
+1. Finished ClamAV signature updater - in review issue 2433
+1. Setup Waffle.io and started working with git
+1. Started working on jsonParser issue 2442
+1. Continued working quarantine restores
+  * Went through SetDesktopBG.exe with Ross
+1. Went through customer tickets as practice
+  *2451 sample created and ran many java artifacts
+1. Setup TIP home directory
+1. Went through disassembly of GetPCName.exe with Ross
+1. Setup hippo lab access
+1. Setup hadoop access
